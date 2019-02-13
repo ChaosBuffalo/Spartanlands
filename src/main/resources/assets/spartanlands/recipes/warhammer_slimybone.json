@@ -1,0 +1,1 @@
+{"pattern": ["ii", " h"], "type": "minecraft:crafting_shaped", "result": {"item": "spartanlands:warhammer_slimybone"}, "key": {"i": {"item": "thebetweenlands:items_misc", "data": 14}, "h": {"item": "spartanweaponry:material", "data": 0}}}

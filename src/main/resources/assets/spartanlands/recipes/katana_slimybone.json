@@ -1,0 +1,1 @@
+{"pattern": ["  i", " i ", "h  "], "type": "minecraft:crafting_shaped", "result": {"item": "spartanlands:katana_slimybone"}, "key": {"i": {"item": "thebetweenlands:items_misc", "data": 14}, "h": {"item": "spartanweaponry:material", "data": 0}}}

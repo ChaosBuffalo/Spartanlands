@@ -1,0 +1,1 @@
+{"pattern": ["pi"], "type": "minecraft:crafting_shaped", "result": {"item": "spartanlands:javelin_slimybone"}, "key": {"i": {"item": "thebetweenlands:items_misc", "data": 14}, "p": {"item": "spartanweaponry:material", "data": 1}}}

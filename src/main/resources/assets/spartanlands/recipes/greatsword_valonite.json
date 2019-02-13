@@ -1,0 +1,1 @@
+{"pattern": [" i ", "iii", "ihi"], "type": "minecraft:crafting_shaped", "result": {"item": "spartanlands:greatsword_valonite"}, "key": {"i": {"item": "thebetweenlands:items_misc", "data": 19}, "h": {"item": "spartanweaponry:material", "data": 0}}}

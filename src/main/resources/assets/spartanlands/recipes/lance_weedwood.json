@@ -1,0 +1,1 @@
+{"pattern": ["i", "p", "h"], "type": "minecraft:crafting_shaped", "result": {"item": "spartanlands:lance_weedwood"}, "key": {"i": {"item": "thebetweenlands:weedwood_planks"}, "p": {"item": "spartanweaponry:material", "data": 1}, "h": {"item": "spartanweaponry:material", "data": 0}}}

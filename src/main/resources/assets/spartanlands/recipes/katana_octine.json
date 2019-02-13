@@ -1,0 +1,1 @@
+{"pattern": ["  i", " i ", "h  "], "type": "minecraft:crafting_shaped", "result": {"item": "spartanlands:katana_octine"}, "key": {"i": {"item": "thebetweenlands:octine_ingot"}, "h": {"item": "spartanweaponry:material", "data": 0}}}

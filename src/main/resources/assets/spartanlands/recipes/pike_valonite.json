@@ -1,0 +1,1 @@
+{"pattern": ["i", "p", "p"], "type": "minecraft:crafting_shaped", "result": {"item": "spartanlands:pike_valonite"}, "key": {"i": {"item": "thebetweenlands:items_misc", "data": 19}, "p": {"item": "spartanweaponry:material", "data": 1}}}

@@ -1,0 +1,1 @@
+{"pattern": ["hwi", "w s", "iss"], "type": "minecraft:crafting_shaped", "result": {"item": "spartanlands:longbow_valonite"}, "key": {"i": {"item": "thebetweenlands:items_misc", "data": 19}, "h": {"item": "spartanweaponry:material", "data": 0}, "s": {"ore": "string", "type": "forge:ore_dict"}, "w": {"item": "thebetweenlands:items_misc", "data": 4}}}
